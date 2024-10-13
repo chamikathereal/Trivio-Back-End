@@ -1,4 +1,4 @@
-<h1>Trivo - Chat Application 🗨️</h1>
+<h1>Trivo - Chat Application | Back-End 🗨️</h1>
 
 <p>Welcome to <strong>Trivo</strong>, a real-time chat application built using <strong>React Native</strong> with <strong>Expo</strong> for the front end, and <strong>Java</strong> with <strong>Hibernate</strong> for the back end. This app allows users to connect, chat with friends, add new friends, and explore friend profiles seamlessly.</p>
 
